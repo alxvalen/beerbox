@@ -1,0 +1,23 @@
+{
+  "name": "beerbox",
+  "version": "1.0.0",
+  "description": "Small app for testing Beer Box on a MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxvalen/beerbox.git"
+  },
+  "author": "Ivar Valen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alxvalen/beerbox/issues"
+  },
+  "homepage": "https://github.com/alxvalen/beerbox#readme",
+  "dependencies": {
+    "mocha": "^3.4.2",
+    "mongoose": "^4.10.4"
+  }
+}
